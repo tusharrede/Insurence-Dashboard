@@ -20,5 +20,5 @@ The dashboard was built using the following tools and technologies:
 * Business Imapct & Insights
 
 5.Screenshots/Demos
-
+https://github.com/tusharrede/Insurence-Dashboard/blob/main/Insurence%20Analytics.png
 
