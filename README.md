@@ -1,28 +1,20 @@
-<h1 align="center">Hi 👋, I'm Tushar Rede</h1>
-<h3 align="center">A passionate Data Analyst from India</h3>
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif>
+Insurence-Dashboard
+1.Project Title / Headline Insurence Analytics:Weekely Branch Insurence Dashboard A dynamic ,interactive data visulization tool to built to explore insurence report data worldwide-focusing on No of Invoices,Total Cross Sell,Total Renewal ,TOtal Stage wise Revenue and Total Employee.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tusharrede&label=Profile%20views&color=0e75b6&style=flat" alt="tusharrede" /> </p>
+2.Short Description/Purpose The Insurence Analytics Dashboard is visually engaging and analytical Power bi report designed to help how many employees are there and the cross sell with three parts like target,achieved and invoice and this dashboard shows same New value as well as Renewal value also.and this dashboard shows how many meetings in yearly this help to find how many meetngs well completed this dashboard help to analyze the data in the insurence field.
 
-- 🌱 I’m currently learning **Data Analyst**
+3.Tech Stack The dashboard was built using the following tools and technologies:
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/tushar-rede-57a042285](https://www.linkedin.com/in/tushar-rede-57a042285)
+Power Bi Desktop-Main Data Visulisation Platform used for report creation.
+Power Query-Data Transformation and Cleaning Layer for reshaping and preparing the data.
+DAX(Data Analysis Expression)-Used for calculated Measures,Dynamic Visuals and Conditional Logic.
+Data Maodeling-Relationship established among tables.
+4.Features and Highlights
 
-- 📫 How to reach me **tusharrede@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/tushar rede" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tushar rede" height="30" width="40" /></a>
-<a href="https://instagram.com/tusharrede" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tusharrede" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tusharrede&show_icons=true&locale=en&layout=compact" alt="tusharrede" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tusharrede&show_icons=true&locale=en" alt="tusharrede" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tusharrede&" alt="tusharrede" /></p>
+Business Problem
+Goal of the Dashboard
+Walk through key Visuals
+Business Imapct & Insights
+5.Screenshots/Demos https://github.com/tusharrede/Insurence-Dashboard/blob/main/Insurence%20Analytics.png
 
 
